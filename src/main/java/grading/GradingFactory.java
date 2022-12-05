@@ -1,7 +1,7 @@
-package subject;
+package grading;
 
-public class SubjectFactory {
-    public static Subject getSubject(String spec) {
+public class GradingFactory {
+    public static Grading getSubject(String spec) {
         switch (spec) {
             case "DM":
                 return new DM();

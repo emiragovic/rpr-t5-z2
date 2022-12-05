@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="436e792b-2936-4280-b9e9-1957c04d4fa1" name="Changes" comment="Initial commit" />
+    <list default="true" id="436e792b-2936-4280-b9e9-1957c04d4fa1" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/subject/DM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/grading/DM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/subject/RPR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/grading/RPR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/subject/SP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/grading/SP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/subject/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/grading/Grading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/subject/SubjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/grading/GradingFactory.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,18 +40,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -72,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670094891706</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1670095037324</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670095037324</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
